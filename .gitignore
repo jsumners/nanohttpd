@@ -10,6 +10,8 @@ target
 .project
 .gradle
 
+distribution.properties
+
 # Vim Backup/Swap Files
 *~
 .swp
